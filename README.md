@@ -84,4 +84,27 @@ Viewers are encouraged to download the matching PowerPoint and notes to follow a
 
 ---
 
-## 📁 Repository Structure
+
+Each folder contains:
+- PowerPoint slides
+- Supporting review PDFs or markdown notes
+- Key diagrams and visuals
+
+---
+
+## 📬 Get Involved
+
+- **Watch & Learn** on YouTube (channel launching soon)
+- **Suggest Topics** – Open an Issue with ideas
+- **Feedback** – Help me improve materials for better learning outcomes
+
+---
+
+**Last Updated:** July 4, 2026  
+**Status:** Actively growing with every new video and learning milestone
+
+---
+
+*This repository exists to make IT learning more accessible, structured, and effective. Whether you're just starting out or deepening your expertise — welcome aboard.*
+
+**Let's build strong IT foundations together.**
